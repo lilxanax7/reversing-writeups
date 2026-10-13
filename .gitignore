@@ -1,0 +1,21 @@
+# Binarios analizados (no se redistribuyen)
+*.exe
+*.dll
+*.pdb
+
+# Bases de datos de IDA
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
+*.idb
+*.i64
+
+# Proyectos de Ghidra
+*.gpr
+*.rep/
+
+# Obsidian / sistema
+.obsidian/
+.DS_Store
